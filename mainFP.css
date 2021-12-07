@@ -1,0 +1,42 @@
+body {
+  padding-top: 1rem;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+.fa-facebook {
+  color: #4267B2;
+}
+
+.fa-twitter {
+  color: #1DA1F2;
+}
+
+.fa-instagram {
+  color: #833AB4;
+}
+
+div.a {
+  text-indent: 50px;
+}
+
+div.b {
+  text-indent: -2em;
+}
+
+div.c {
+  text-indent: 30%;
+}
